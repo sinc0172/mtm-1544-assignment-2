@@ -21,7 +21,19 @@
     line-height: 150%;
 }
 
+#summit-top{
+    margin-bottom: 20px;
+}
 
+#summit-bottom{
+    margin-top: 40px;
+}
+
+#mountain-image{
+    aspect-ratio: 16/9;
+    width: 100%;
+    margin-top: 20px;
+}
 
 /* changing the background colour to eggshell */
 body{
