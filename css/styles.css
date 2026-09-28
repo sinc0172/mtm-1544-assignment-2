@@ -21,6 +21,8 @@
     line-height: 150%;
 }
 
+
+
 /* changing the background colour to eggshell */
 body{
     background-color: #EEE2DF
@@ -42,7 +44,7 @@ h1, h2{
 /* changing the text color of the summit climb heading and the font size */
 #summit{
     color:goldenrod; 
-    font-size:24px
+    font-size:24px;
 }
 /* changing h1 text color to green */
 h1{
