@@ -5,6 +5,9 @@
     box-sizing: border-box;
 }
 
+/* paragraph classes: intro, lakeside, ridge, summit, before-you-go */
+
+
 /* changing the background colour to eggshell */
 body{background-color: #EEE2DF}
 /* changing paragraph text color to white, making the line height 2px tall */
