@@ -1,6 +1,9 @@
-/* MTM1544 Week 1: your stylesheet.
-   This file is already linked from index.html. Write your rules below.
-   Start by changing the body background colour and saving, to confirm the link works. */
+/* MTM1544 Week 2 */
+
+/* setting the box-sizing property to border-box for all elements */
+* {
+    box-sizing: border-box;
+}
 
 /* changing the background colour to eggshell */
 body{background-color: #EEE2DF}
